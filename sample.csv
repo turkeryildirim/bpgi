@@ -1,0 +1,10 @@
+,Technology, description 1 ,public, no, admins
+,Arts, description 2,public ,no ,mods
+,Psysics, description 3, public,yes,members
+Technology,Computing,some description here 1, private,no,members
+Technology,Computing,some description here 2, hidden,yes,members
+Technology,Computing,some description here 3, public,yes,admins
+Technology,Engineering,some description here 4, private,no,mods
+Arts,Literature,group description 1,,yes,
+Arts,Crafts,group description 2,,,admins
+,Geography,group desc,,yes,
