@@ -3,7 +3,7 @@ Author: trkr
 Author URI: http://turkeryildirim.com/
 Contributors: trkr
 Tags:  buddypress, group, import, csv, settings, forum, bbpress
-Stable tag: 0.2
+Stable tag: 0.3
 Requires at least: 4.3
 Tested up to: 4.5
 Text Domain: bpgi
@@ -85,10 +85,13 @@ None
 
 == Changelog ==
 
-= 0.1 =
-* Initial release
+= 0.3 =
+* Text domain fix
 
 = 0.2 =
 * Added text-domain for translation
 * Fixed some typo
 * Removed donation link
+
+= 0.1 =
+* Initial release
